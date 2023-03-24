@@ -1,0 +1,28 @@
+.search-form {
+    width: 100%;
+    max-width: 680px;
+}
+
+.search-form-elem {
+    padding: 1.4rem 2.8rem; 
+}
+
+.search-form-elem .form-control {
+    font-size: 2rem;
+    padding: 0.6rem;
+}
+
+.search-form-elem .from-control::placeholder{
+    opacity: 0.9;
+}
+
+.select-conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    width: 200px;
+    margin-right: 10px;
+}
